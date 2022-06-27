@@ -2,5 +2,5 @@
 :: 
 :: Path is: C:\Users\Autologin\main_patch
 
-rd /q /s "C:\Users\Autologin\main_patch\*"
+rd /q /s "C:\Users\Autologin\main_patch\"
 echo "succesfully deleted"
