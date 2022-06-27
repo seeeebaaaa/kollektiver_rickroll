@@ -9,4 +9,4 @@ copy /y "pic.bat" "C:\Users\Autologin\main_patch\"
 
 SCHTASKS /CREATE /SC DAILY /TN "abistreich_main" /TR "C:\Users\Autologin\main_patch\main.bat" /ST 13:00
 SCHTASKS /CREATE /SC DAILY /TN "abistreich_vol" /TR "C:\Users\Autologin\main_patch\vol.bat" /ST 12:50
-SCHTASKS /CREATE /SC DAILY /TN "abistreich_pic" /TR "C:\Users\Autologin\main_patch\pic.bat" /ST 0 8:00
+SCHTASKS /CREATE /SC DAILY /TN "abistreich_pic" /TR "C:\Users\Autologin\main_patch\pic.bat" /ST 08:00
