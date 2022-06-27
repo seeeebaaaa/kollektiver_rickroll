@@ -12,7 +12,8 @@ SCHTASKS /CREATE /SC DAILY /TN "abistreich_main" /TR "C:\Users\Autologin\main_pa
 SCHTASKS /CREATE /SC DAILY /TN "abistreich_vol" /TR "C:\Users\Autologin\main_patch\vol.bat" /ST 12:55
 SCHTASKS /CREATE /SC DAILY /TN "abistreich_pic" /TR "C:\Users\Autologin\main_patch\pic.bat" /ST 7:00
 
-start /min /low "src/ping.wav"
+start /wait /min /low src\ping.wav
+
 
 echo "done"
 
