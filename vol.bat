@@ -1,7 +1,6 @@
-::change volume before playing
 @if (@a==@b) @end /*
 
-::batch portion
+:: batch portion
 
 @ECHO OFF
 
