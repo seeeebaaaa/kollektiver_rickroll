@@ -1,3 +1,1 @@
-::show abi pic as screensaver so the board remains on
-
-start /high /max src\pic.gif
+start /high /max C:\Users\Autologin\main_patch\src\pic.gif
