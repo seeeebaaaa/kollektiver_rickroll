@@ -20,9 +20,9 @@
 <p>Damit die Programme zu den jeweiligen Uhrzeiten ausgeführt werden, muss ein Auftrag in der Aufgabenplanung vorhanden sein.</p>
 <p>Diese Aufträge/Aufgaben können einfach durch die Aufgabenplanung gelöscht werden.</p>
 <p>Hierfür muss zuerst in der Suchleiste von Windows (siehe Bild) "Aufgabenplanung" eingegeben werden und anschließend geöffnet werden (Linksklick/Enter).</p>
-<img src="https://raw.githubusercontent.com/seeeebaaaa/kollektiver_rickroll/main/uninstall/src/serch_bar.png" alt="windows search bar" width="200px">
+<img src="https://raw.githubusercontent.com/seeeebaaaa/kollektiver_rickroll/main/uninstall/src/serch_bar.png" alt="windows search bar" width="600px">
 <p>Die Aufgabenplanung sieht anschließend wiefolgt aus:</p>
-<img src="https://raw.githubusercontent.com/seeeebaaaa/kollektiver_rickroll/main/uninstall/src/aufgabenplanung.png" width="200px">
+<img src="https://raw.githubusercontent.com/seeeebaaaa/kollektiver_rickroll/main/uninstall/src/aufgabenplanung.png" width="600px">
 <p>Die Liste oben in der mitte zeigt alle vorhanden Aufgaben/Planungen. Ganz oben sollten hier nun <b>4</b> Aufgaben mit dem Namen <code>abistreich_...</code> sein. Diese können nun gelöscht werden in dem eine ausgewählt wird und anschließend auf der rechten Seite unten auf <code>Löschen</code> geklcikt wird. Nachdem anschließend auf <code>Aktualisieren</code> geklickt wurde, sollte diese Aufgabe nicht mehr vorhanden sein. Dassselbe muss nu für die restlichen drei Aufgaben gemacht werden. <br> Die genauen Namen der Aufgaben lauten: <ul><li><code>abistreich_main</code></li><li><code>abistreich_vol</code></li><li><code>abistreich_sec</code></li><li><code>abistreich_pic</code></li></ul> </p>
 <br>
 <p>Somit sollte nun alles deinstaliert sein.</p>
