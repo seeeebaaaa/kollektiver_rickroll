@@ -3,7 +3,7 @@
 
 ## uninstall.bat
 <p>Hier anhängend ist eine <code>uninstall.bat</code>-Datei.</p>
-<p>Diese muss auf die Tafel oder auf einem USB-Stick an der Tafel kopiert werden **(auf der das Autologin angemeldet ist)** und anschließend mit einem Doppelklick ausgeführt werden. Sollte eine Meldung kommen wie "unauthentifizierter Verfasser" oder "Soll die Datei wirklich ausgeführt werden?", einfach auf "Ja" oder "Ausführen" klicken.</p>
+<p>Diese muss auf die Tafel oder auf einem USB-Stick an der Tafel kopiert werden <b>(auf der das Autologin angemeldet ist)</b> und anschließend mit einem Doppelklick ausgeführt werden. Sollte eine Meldung kommen wie "unauthentifizierter Verfasser" oder "Soll die Datei wirklich ausgeführt werden?", einfach auf "Ja" oder "Ausführen" klicken.</p>
 <p>Anschließend wird die Software deinstalliert.</P>
 
 ## manuell löschen
