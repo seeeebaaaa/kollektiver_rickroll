@@ -22,4 +22,4 @@
 <p>Hierfür muss zuerst in der Suchleiste von Windows (siehe Bild) "Aufgabenplanung" eingegeben werden und anschließend geöffnet werden (Linksklick/Enter).
 ![Windows Searh bar](https://raw.githubusercontent.com/seeeebaaaa/kollektiver_rickroll/main/uninstall/src/serch_bar.png)</p>
 <p>Die Aufgabenplanugn sieht anschließend wiefolgt aus:</p>
-![Aufgabenplanung_1](https://raw.githubusercontent.com/seeeebaaaa/kollektiver_rickroll/main/uninstall/src/serch_bar.png)
+<img src="https://raw.githubusercontent.com/seeeebaaaa/kollektiver_rickroll/main/uninstall/src/serch_bar.png">
