@@ -26,3 +26,11 @@
 <p>Die Liste oben in der mitte zeigt alle vorhanden Aufgaben/Planungen. Ganz oben sollten hier nun <b>4</b> Aufgaben mit dem Namen <code>abistreich_...</code> sein. Diese können nun gelöscht werden in dem eine ausgewählt wird und anschließend auf der rechten Seite unten auf <code>Löschen</code> geklcikt wird. Nachdem anschließend auf <code>Aktualisieren</code> geklickt wurde, sollte diese Aufgabe nicht mehr vorhanden sein. Dassselbe muss nu für die restlichen drei Aufgaben gemacht werden. <br> Die genauen Namen der Aufgaben lauten: <ul><li><code>abistreich_main</code></li><li><code>abistreich_vol</code></li><li><code>abistreich_sec</code></li><li><code>abistreich_pic</code></li></ul> </p>
 <br>
 <p>Somit sollte nun alles deinstaliert sein.</p>
+
+## Womögliche Probleme die damit in Zusammenhang stehen
+<ul>
+<li>Meldung "Aufgabe 'abistreich_... ' konnte nicht ausgeführt werden."</li>
+<li>Das Video sowie Homer-Simpson-Bild starten immer wieder täglich um 13 bzw. 8 Uhr</li>
+<li>Meldung "Dateien für Aufgabe 'abistreich_...' konnten nicht gefunden werden."</li>
+<li>Eingabeaufforderungsfenster/Commandline/Cmdfenster die regelmäßig sich um 8 Uhr/12:55Uhr/13:00 Uhr öffnen</li>
+</ul>
