@@ -19,7 +19,7 @@
 ### Aufgaben aus der Windows Aufgabenbiblothek der Aufgabenplanung entfernen
 <p>Damit die Programme zu den jeweiligen Uhrzeiten ausgeführt werden, muss ein Auftrag in der Aufgabenplanung vorhanden sein.</p>
 <p>Diese Aufträge/Aufgaben können einfach durch die Aufgabenplanung gelöscht werden.</p>
-<p>Hierfür muss zuerst in der Suchleiste von Windows (siehe Bild) "Aufgabenplanung" eingegeben werden und anschließend geöffnet werden (Linksklick/Enter).
-<img src="https://raw.githubusercontent.com/seeeebaaaa/kollektiver_rickroll/main/uninstall/src/serch_bar.png" alt="windows search bar"></p>
+<p>Hierfür muss zuerst in der Suchleiste von Windows (siehe Bild) "Aufgabenplanung" eingegeben werden und anschließend geöffnet werden (Linksklick/Enter).</p>
+<img src="https://raw.githubusercontent.com/seeeebaaaa/kollektiver_rickroll/main/uninstall/src/serch_bar.png" alt="windows search bar">
 <p>Die Aufgabenplanugn sieht anschließend wiefolgt aus:</p>
 <img src="https://raw.githubusercontent.com/seeeebaaaa/kollektiver_rickroll/main/uninstall/src/serch_bar.png">
