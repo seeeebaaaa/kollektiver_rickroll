@@ -20,6 +20,6 @@
 <p>Damit die Programme zu den jeweiligen Uhrzeiten ausgeführt werden, muss ein Auftrag in der Aufgabenplanung vorhanden sein.</p>
 <p>Diese Aufträge/Aufgaben können einfach durch die Aufgabenplanung gelöscht werden.</p>
 <p>Hierfür muss zuerst in der Suchleiste von Windows (siehe Bild) "Aufgabenplanung" eingegeben werden und anschließend geöffnet werden (Linksklick/Enter).</p>
-![Windows Searh bar](https://github.com/seeeebaaaa/kollektiver_rickroll/blob/main/uninstall/src/serch_bar.png?raw=true)
+![Windows Searh bar](https://www.google.com/search?q=a&sxsrf=ALiCzsYh9UgB0FGbnY8NM7gJBCVJNwve5A:1657104737586&tbm=isch&source=iu&ictx=1&vet=1&fir=9uozL9m7endnCM%252CIVtlWj0RjcH10M%252C%252Fm%252F0195mc&usg=AI4_-kTztnNCEL83HMIzVrheVVBl8lbVpA&sa=X&ved=2ahUKEwjO1vSZjOT4AhUwhf0HHadAB-YQ_B16BAhBEAI#imgrc=9uozL9m7endnCM)
 <p>Die Aufgabenplanugn sieht anschließend wiefolgt aus:</p>
-![Aufgabenplanung_1](https://github.com/seeeebaaaa/kollektiver_rickroll/blob/main/uninstall/src/serch_bar.png?raw=true)
+![Aufgabenplanung_1](https://github.com/seeeebaaaa/kollektiver_rickroll/blob/main/uninstall/src/serch_bar.png)
